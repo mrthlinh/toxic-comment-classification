@@ -1,0 +1,1 @@
+{"class":"org.apache.spark.ml.classification.MultilayerPerceptronClassificationModel","timestamp":1524618073813,"sparkVersion":"2.2.1","uid":"mlpc_b0ffcdca0d71","paramMap":{"predictionCol":"prediction","featuresCol":"features","labelCol":"severe_toxic"}}

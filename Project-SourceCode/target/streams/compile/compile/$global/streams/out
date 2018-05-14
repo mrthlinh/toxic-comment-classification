@@ -1,0 +1,9 @@
+[0m[[0m[31merror[0m] [0m[0mE:\UTD\Class\Spring 2018\CS6350-BigData\project\Project\src\main\scala\TrainingNB.scala:105:38: ';' expected but ',' found.[0m
+[0m[[0m[31merror[0m] [0m[0m    val fMeasure = metric.fMeasure(0),metric.fMeasure(1)[0m
+[0m[[0m[31merror[0m] [0m[0m                                     ^[0m
+[0m[[0m[31merror[0m] [0m[0mE:\UTD\Class\Spring 2018\CS6350-BigData\project\Project\src\main\scala\TrainingNB.scala:106:40: ';' expected but ',' found.[0m
+[0m[[0m[31merror[0m] [0m[0m    val precision = metric.precision(0),metric.precision(1)[0m
+[0m[[0m[31merror[0m] [0m[0m                                       ^[0m
+[0m[[0m[31merror[0m] [0m[0mE:\UTD\Class\Spring 2018\CS6350-BigData\project\Project\src\main\scala\TrainingNB.scala:107:34: ';' expected but ',' found.[0m
+[0m[[0m[31merror[0m] [0m[0m    val recall = metric.recall(0),metric.recall(1)[0m
+[0m[[0m[31merror[0m] [0m[0m                                 ^[0m

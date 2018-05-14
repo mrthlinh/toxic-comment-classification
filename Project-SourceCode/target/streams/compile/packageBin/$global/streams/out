@@ -1,0 +1,53 @@
+[0m[[0m[0minfo[0m] [0m[0mPackaging E:\UTD\Class\Spring 2018\CS6350-BigData\project\Project\target\scala-2.11\project_2.11-0.1.jar ...[0m
+[0m[[0m[0mdebug[0m] [0m[0mInput file mappings:[0m
+[0m[[0m[0mdebug[0m] [0m[0m	TrainingNN$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  E:\UTD\Class\Spring 2018\CS6350-BigData\project\Project\target\scala-2.11\classes\TrainingNN$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	TrainingSVM$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  E:\UTD\Class\Spring 2018\CS6350-BigData\project\Project\target\scala-2.11\classes\TrainingSVM$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	TrainingSVM$$anonfun$1.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  E:\UTD\Class\Spring 2018\CS6350-BigData\project\Project\target\scala-2.11\classes\TrainingSVM$$anonfun$1.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	toxicityExample$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  E:\UTD\Class\Spring 2018\CS6350-BigData\project\Project\target\scala-2.11\classes\toxicityExample$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	toxicityExample$$anonfun$2.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  E:\UTD\Class\Spring 2018\CS6350-BigData\project\Project\target\scala-2.11\classes\toxicityExample$$anonfun$2.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	toxicityExample$$anonfun$1.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  E:\UTD\Class\Spring 2018\CS6350-BigData\project\Project\target\scala-2.11\classes\toxicityExample$$anonfun$1.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	toxicityExample$$anonfun$3.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  E:\UTD\Class\Spring 2018\CS6350-BigData\project\Project\target\scala-2.11\classes\toxicityExample$$anonfun$3.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	TrainingNB$$anonfun$1.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  E:\UTD\Class\Spring 2018\CS6350-BigData\project\Project\target\scala-2.11\classes\TrainingNB$$anonfun$1.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	data_test_clean.csv[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  E:\UTD\Class\Spring 2018\CS6350-BigData\project\Project\target\scala-2.11\classes\data_test_clean.csv[0m
+[0m[[0m[0mdebug[0m] [0m[0m	TrainingNB$$anonfun$2.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  E:\UTD\Class\Spring 2018\CS6350-BigData\project\Project\target\scala-2.11\classes\TrainingNB$$anonfun$2.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	TrainingSVM.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  E:\UTD\Class\Spring 2018\CS6350-BigData\project\Project\target\scala-2.11\classes\TrainingSVM.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	TrainingNN.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  E:\UTD\Class\Spring 2018\CS6350-BigData\project\Project\target\scala-2.11\classes\TrainingNN.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	toxicityExample$$anonfun$4.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  E:\UTD\Class\Spring 2018\CS6350-BigData\project\Project\target\scala-2.11\classes\toxicityExample$$anonfun$4.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	TrainingLR$$anonfun$1.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  E:\UTD\Class\Spring 2018\CS6350-BigData\project\Project\target\scala-2.11\classes\TrainingLR$$anonfun$1.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	toxicityExample.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  E:\UTD\Class\Spring 2018\CS6350-BigData\project\Project\target\scala-2.11\classes\toxicityExample.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	TrainingLR$$anonfun$2.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  E:\UTD\Class\Spring 2018\CS6350-BigData\project\Project\target\scala-2.11\classes\TrainingLR$$anonfun$2.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	TrainingNN$$anonfun$1.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  E:\UTD\Class\Spring 2018\CS6350-BigData\project\Project\target\scala-2.11\classes\TrainingNN$$anonfun$1.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	data_train_clean.csv[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  E:\UTD\Class\Spring 2018\CS6350-BigData\project\Project\target\scala-2.11\classes\data_train_clean.csv[0m
+[0m[[0m[0mdebug[0m] [0m[0m	TrainingLR$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  E:\UTD\Class\Spring 2018\CS6350-BigData\project\Project\target\scala-2.11\classes\TrainingLR$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	TrainingSVM$$anonfun$2.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  E:\UTD\Class\Spring 2018\CS6350-BigData\project\Project\target\scala-2.11\classes\TrainingSVM$$anonfun$2.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	toxicityExample$$anonfun$5.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  E:\UTD\Class\Spring 2018\CS6350-BigData\project\Project\target\scala-2.11\classes\toxicityExample$$anonfun$5.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	toxicityExample$$anonfun$6.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  E:\UTD\Class\Spring 2018\CS6350-BigData\project\Project\target\scala-2.11\classes\toxicityExample$$anonfun$6.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	TrainingNB.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  E:\UTD\Class\Spring 2018\CS6350-BigData\project\Project\target\scala-2.11\classes\TrainingNB.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	TrainingLR.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  E:\UTD\Class\Spring 2018\CS6350-BigData\project\Project\target\scala-2.11\classes\TrainingLR.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	TrainingNB$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  E:\UTD\Class\Spring 2018\CS6350-BigData\project\Project\target\scala-2.11\classes\TrainingNB$.class[0m
+[0m[[0m[0minfo[0m] [0m[0mDone packaging.[0m

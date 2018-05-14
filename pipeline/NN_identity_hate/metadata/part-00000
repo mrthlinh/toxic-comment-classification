@@ -1,0 +1,1 @@
+{"class":"org.apache.spark.ml.classification.MultilayerPerceptronClassificationModel","timestamp":1524621110577,"sparkVersion":"2.2.1","uid":"mlpc_340bb1e0d6bb","paramMap":{"featuresCol":"features","labelCol":"identity_hate","predictionCol":"prediction"}}
