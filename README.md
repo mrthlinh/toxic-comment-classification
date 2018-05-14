@@ -7,7 +7,7 @@ __Data__: The dataset we are using for toxic comment classification is taken fro
 |Count    |15294|1595|8449|478|7877|1405|
 |Percentage|9.5%|0.9%|5.2%|0.2%|4.9%|0.8%|
 
-![alt text][https://github.com/mrthlinh/toxic-comment-classification/blob/master/pic/distribution.png]
+![alt text](https://github.com/mrthlinh/toxic-comment-classification/blob/master/pic/distribution.png)
 
 Data are highly imbalanced
 
